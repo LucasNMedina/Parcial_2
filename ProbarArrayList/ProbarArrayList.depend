@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1479403407 source:c:\users\lucas\desktop\probararraylist\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1479403384 c:\users\lucas\desktop\probararraylist\arraylist.h
+
+1479403419 source:c:\users\lucas\desktop\probararraylist\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1479403383 c:\users\lucas\desktop\probararraylist\employee.h
+
+1479409101 source:c:\users\lucas\desktop\probararraylist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Employee.h"
+	"ArrayList.h"
+
+1479403408 source:f:\probararraylist\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1479403386 f:\probararraylist\arraylist.h
+
+1479403420 source:f:\probararraylist\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1479403384 f:\probararraylist\employee.h
+
+1479433054 source:f:\probararraylist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Employee.h"
+	"ArrayList.h"
+	"tramitente.h"
+	"validaciones.h"
+
+1479423722 source:f:\probararraylist\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validaciones.h"
+
+1479420232 f:\probararraylist\validaciones.h
+
+1479425688 f:\probararraylist\tramitente.h
+
+1479425688 source:f:\probararraylist\tramitente.c
+	<stdio.h>
+	<stdlib.h>
+	"Tramitente.h"
+
+1479403408 source:e:\probararraylist\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1479403386 e:\probararraylist\arraylist.h
+
+1479425688 source:e:\probararraylist\tramitente.c
+	<stdio.h>
+	<stdlib.h>
+	"Tramitente.h"
+
+1479425688 e:\probararraylist\tramitente.h
+
+1479423722 source:e:\probararraylist\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validaciones.h"
+
+1479420232 e:\probararraylist\validaciones.h
+
+1479909842 source:e:\probararraylist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Employee.h"
+	"ArrayList.h"
+	"tramitente.h"
+	"validaciones.h"
+
+1479403384 e:\probararraylist\employee.h
+
